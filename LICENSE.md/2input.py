@@ -2,9 +2,8 @@
 # Created by me.
 
 
-name = raw_input("Hey, What is ur name: ")
+name = raw_input("Hey, What is ur name: ")      #for Python3, input.
 print("Oww...!!, U are "+name)
-# For Python3, it's only input.
 
 name2 = ("\nThis is FirstName.")
 name2 = ("\nThs is SecondName. FirstName get replaced.")
